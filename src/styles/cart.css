@@ -1,0 +1,24 @@
+.table tr td img{
+  width:̀̀50px !important;
+  height:50px !important;
+  object-fit: cover;
+}
+td i {
+ cursor: pointer;
+}
+td{
+  color: var(--primayry-color);
+}
+.total__title{
+ font-size: 1.5rem;
+ font-weight: 600;
+ margin-bottom: 10px;
+}
+.total__price{
+ font-size: 1.5rem;
+ margin-bottom: 10px;
+ font-weight: 500;
+}
+.total__description{
+ font-size: 1rem;
+}
