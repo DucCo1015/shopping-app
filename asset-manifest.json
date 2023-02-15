@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/shopping-app/static/css/main.661d977a.css",
-    "main.js": "/shopping-app/static/js/main.8523657f.js",
+    "main.css": "/shopping-app/static/css/main.3c54d887.css",
+    "main.js": "/shopping-app/static/js/main.77565179.js",
     "static/js/787.6962f9d7.chunk.js": "/shopping-app/static/js/787.6962f9d7.chunk.js",
     "static/media/single-sofa-01.jpg": "/shopping-app/static/media/single-sofa-01.db24b9feed7582c4e98d.jpg",
     "static/media/arm-chair-03.jpg": "/shopping-app/static/media/arm-chair-03.3249f382638c86196acd.jpg",
@@ -34,12 +34,12 @@
     "static/media/wireless-03.png": "/shopping-app/static/media/wireless-03.102199ac2c306820fe70.png",
     "static/media/wireless-01.png": "/shopping-app/static/media/wireless-01.1a76d777727c50ca0294.png",
     "index.html": "/shopping-app/index.html",
-    "main.661d977a.css.map": "/shopping-app/static/css/main.661d977a.css.map",
-    "main.8523657f.js.map": "/shopping-app/static/js/main.8523657f.js.map",
+    "main.3c54d887.css.map": "/shopping-app/static/css/main.3c54d887.css.map",
+    "main.77565179.js.map": "/shopping-app/static/js/main.77565179.js.map",
     "787.6962f9d7.chunk.js.map": "/shopping-app/static/js/787.6962f9d7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.661d977a.css",
-    "static/js/main.8523657f.js"
+    "static/css/main.3c54d887.css",
+    "static/js/main.77565179.js"
   ]
 }
