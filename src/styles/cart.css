@@ -1,5 +1,5 @@
 .table tr td img{
-  width:̀̀50px !important;
+  width: 50px !important;
   height:50px !important;
   object-fit: cover;
 }
@@ -7,7 +7,7 @@ td i {
  cursor: pointer;
 }
 td{
-  color: var(--primayry-color);
+  color: var(--primary-color);
 }
 .total__title{
  font-size: 1.5rem;

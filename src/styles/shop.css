@@ -36,9 +36,14 @@
 @media only screen and (max-width: 768px) {
   .filter__widget{
     margin-bottom: 30px;
+    width: 30px;
+    font-size: 1.2rem;
   }
   .filter__widget select{
     padding: 7px 20px;
     font-size: 0.9rem;
+  }
+  .search__box{
+    margin-top: 25px;
   }
 }
